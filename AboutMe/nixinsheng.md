@@ -1,5 +1,5 @@
 ##### Welcome to <span style="color:red">🍎倪新生'</span>GitHub Pages
->![](AboutMe/497AC128F967EE8463299654199BC88A.gif)
+>![](AboutMe/logo.png)
 
 >edit:2017年05月24日16:41:50
 
