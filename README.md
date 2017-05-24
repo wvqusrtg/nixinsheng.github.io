@@ -1,3 +1,10 @@
 ## Welcome to <span style="color:red">🍎倪新生'</span>GitHub Pages
-###[⑴阿里云服务器学习](阿里云ECS/阿里云服务器学习.md)
+---
+edit by:nixs/2017年05月24日16:24:14
+![]((AboutMe/logo.png)
+[About Me](AboutMe/nixinsheng.md)
+---
+
+>[(1)创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/)
+>[(2)阿里云服务器学习](aliECS/阿里云服务器学习.md)
 
