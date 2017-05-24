@@ -1,9 +1,9 @@
 ##### Welcome to <span style="color:red">🍎倪新生'</span>GitHub Pages
->![](AboutMe/nixs.png)
+>![](AboutMe/nixs.jpg)
 
 >edit:2017年05月24日16:41:50
 
->[](https://github.com/wvqusrtg)
+>[倪新生github](https://github.com/wvqusrtg)
 
 >
 
