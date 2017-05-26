@@ -7,12 +7,13 @@
 
 ---
 
->[(1)阿里云服务器学习](aliECS/阿里云服务器学习.md)
+>*[(1)Andorid](Android/Android.md)
+>*[(2)iOS](iOS/iOS.md)
+>**[(3)混合应用开发](hybridApp/hybridApp.md)
+>**[(4)跨平台游戏开发](hybridApp/hybridApp.md)
 
->[(2)推推管家iOS端AppStore里版本信息](AntManagerVersion/版本记录.md)
-
->[(3)nil / Nil / NULL / NSNull](http://nshipster.cn/nil/)
->* Mattt Thompson撰写、 Zihan Xu翻译、 发布于2013年1月7日
+>[(5)Java服务器开发支持](JavaServer/JavaServer.md)
+>[(6)阿里云服务器学习](aliECS/阿里云服务器学习.md)
 
 ---
 
