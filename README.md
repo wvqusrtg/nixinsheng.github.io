@@ -7,13 +7,13 @@
 
 ---
 
->>[(1)Andorid](Android/Android.md)
+>[(1)Andorid](Android/Android.md)
 
->>[(2)iOS](iOS/iOS.md)
+>[(2)iOS](iOS/iOS.md)
 
->>[(3)混合应用开发](hybridApp/hybridApp.md)
+>[(3)混合应用开发](hybridApp/hybridApp.md)
 
->>[(4)跨平台游戏开发](Game/cocos.md)
+>[(4)跨平台游戏开发](Game/cocos.md)
 
 >[(5)Java服务器开发支持](JavaServer/JavaServer.md)
 
