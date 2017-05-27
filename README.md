@@ -11,6 +11,8 @@
 
 >[(2)iOS](iOS/iOS.md)
 
+>[(2.1)AppStore](AppStore/版本记录.md)
+
 >[(3)混合应用开发](hybridApp/hybridApp.md)
 
 >[(4)跨平台游戏开发](Game/cocos.md)
