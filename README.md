@@ -1,12 +1,6 @@
 ##### Welcome to <span style="color:red"> 🍎 倪新生'</span>GitHub Pages
----
-
-<!-->![](AboutMe/logo.png)-->
-
 >[About Me](AboutMe/nixinsheng.md)
-
 ---
-
 >[(1)Andorid](Android/Android.md)
 
 >[(2)iOS](iOS/iOS.md)
