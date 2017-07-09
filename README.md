@@ -1,7 +1,7 @@
 ##### Welcome to <span style="color:red"> 🍎 倪新生'</span>GitHub Pages
 ---
 
->![](AboutMe/logo.png)
+<!-->![](AboutMe/logo.png)-->
 
 >[About Me](AboutMe/nixinsheng.md)
 
